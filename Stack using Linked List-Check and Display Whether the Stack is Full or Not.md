@@ -1,4 +1,4 @@
-# # 📚 Stack using Linked List: Check and Display Whether the Stack is Full or Not
+## 📚 Stack using Linked List: Check and Display Whether the Stack is Full or Not
 
 This Python program demonstrates how to check if a stack (using `LifoQueue` from the `queue` module) is full or not. It uses the `full()` method to determine the stack's status and then displays the appropriate message.
 
